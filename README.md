@@ -1,7 +1,7 @@
 # `𝓨𝓲𝔁𝔃𝓷 ℬ𝓸𝓽 `
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/51910803824" target="blank"><img src="https://img.shields.io/badge/JHUSZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/51910803824" target="blank"><img src="https://img.shields.io/badge/YIXZN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
