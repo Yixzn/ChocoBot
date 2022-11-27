@@ -17,7 +17,7 @@ say('NotJhuz-MD\nJhusi-Jaashi', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Bot creado por Jhus. Dedicado para Jaashi, si lees esto, te amo uwu`, {
+say(`Bot creado por Yixzn. Si lees esto, te amo uwu`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
